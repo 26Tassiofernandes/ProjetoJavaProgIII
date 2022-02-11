@@ -4,4 +4,4 @@
 
 → Para iniciar a TelaLogin, é necessário inserir o usuário "JurgenKlopp" e a senha "2019", caso contrário, gera-se um erro e o acesso a TelaPrincipal não será executada;
 
-→ Na TelaPrincipal é possivel ter acesso ao plantel do time inglês;
+→ Na TelaPrincipal é possivel ter acesso ao plantel da temporada 21/22 do time inglês;
